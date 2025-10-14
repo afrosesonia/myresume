@@ -18,7 +18,7 @@
 `Selenium, Cucumber, JUnit, TestNG, Postman`<br>
 `Version Control System:`
 `Git`<br>
-'CI/CD:`
+`CI/CD:`
 `Jenkins`<br>
 `Reporting:`
 `Microsoft Excel`<br>
