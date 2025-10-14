@@ -2,16 +2,16 @@
 `Detail-oriented SDET (Software Development Engineer in Test) Professional supporting financial systems, conducting software testing, and improving application stability. Skilled in data validation, data analysis, IT service operations, software development and cross-functional collaboration.`
 # Education
 `The University of Memphis`<br>
-`Master of Science in Management Information Systems`<br>
+`Master of Science in Management Information Systems`<br><br>
 `Jahangirnagar University`<br>
 `Bachelor of Science in Computer Science and Engineering`<br>
 # Skills
 # Languages:
-# Java, SQL
+`Java, SQL`
 # Web Technologies:
-# HTML, CSS, Bootstrap, JavaScript, React, PHP
+`HTML, CSS, Bootstrap, JavaScript, React, PHP`<br>
 # Databases:
-# Oracle, MySQL, Microsoft SQL Server
+`Oracle, MySQL, Microsoft SQL Server`<br>
 # Software Testing:
 # Requirement Analysis, Test Plan Creation, Test Case Writing and Execution, Smoke Testing, Acceptance Testing, Defect Documentation
 # Testing Frameworks & Tools:
