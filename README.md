@@ -28,7 +28,7 @@
 `R, SAS, Python`<br>
 # Projects
 `Predict best location for a company to open stores by analyzing Household Income, Crime, High School/College Graduation Rate and Unemployment Rate Data.`<br>
-`Tool: SAS Enterprise Miner, Data: Data.Gov`
+`Tool: SAS Enterprise Miner, Data: Data.Gov`<br><br>
 `Crime Data Analysis of Philadelphia between the year 2006 and 2015.`<br>
 `Tool: R, Data: OpenDataPhilly.Org`<br><br>
 `Web Development Projects`<br>
