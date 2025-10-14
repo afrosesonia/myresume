@@ -54,7 +54,7 @@
 `Teacher (Substitute)`<br>
 `College Station ISD and Bryan ISD`<br><br>
 
-`Responsibilities:`<br>
+`Responsibilities:`<br><br>
 `- Implemented pre-assigned lesson plans, adapting them to meet the needs of diverse learners.`<br>
 `- Maintained a positive learning environment by managing classroom behavior effectively.`<br>
 `- Recorded attendance accurately and maintained student records according to the school policy.`<br>
