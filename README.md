@@ -26,3 +26,13 @@
 `WordPress, Joomla`<br>
 `Data Visualization:`
 `R, SAS, Python`<br>
+# Projects
+`Predict best location for a company to open stores by analyzing Household Income, Crime, High School/College Graduation Rate and Unemployment Rate Data.`<br>
+`Tool: SAS Enterprise Miner, Data: Data.Gov`
+`Crime Data Analysis of Philadelphia between the year 2006 and 2015.`<br>
+`Tool: R, Data: OpenDataPhilly.Org`<br><br>
+`Web Development Projects`<br>
+`Business websites, Photography Portfoli website, Personal Resume Website, Social Network login Page (UI Clone Project)`<br>
+`Tool: HTML5, CSS3, Bootstrap, JavaScript, React, PHP, WordPress`<br><br>
+`Project on Healthcare Data Investigation.`<br>
+`Tool: Python`<br><br>
