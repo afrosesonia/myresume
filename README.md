@@ -51,7 +51,6 @@
 `- Maintain version control with Git, streamlining collaboration within project teams.`<br>
 `- Provide proactive technical insights to enhance system health and manageability.`<br><br>
 
-
 `Teacher (Substitute)`<br>
 `College Station ISD and Bryan ISD`<br><br>
 
