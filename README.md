@@ -6,23 +6,23 @@
 `Jahangirnagar University`<br>
 `Bachelor of Science in Computer Science and Engineering`<br>
 # Skills
-# Languages:
-`Java, SQL`
-# Web Technologies:
+`Languages:`
+`Java, SQL`<br>
+`Web Technologies:`
 `HTML, CSS, Bootstrap, JavaScript, React, PHP`<br>
-# Databases:
+`Databases:`
 `Oracle, MySQL, Microsoft SQL Server`<br>
-# Software Testing:
-# Requirement Analysis, Test Plan Creation, Test Case Writing and Execution, Smoke Testing, Acceptance Testing, Defect Documentation
-# Testing Frameworks & Tools:
-# Selenium, Cucumber, JUnit, TestNG, Postman
-# Version Control System:
-# Git
-# CI/CD:
-# Jenkins
-# Reporting:
-# Microsoft Excel
-# Content Management Systems:
-# WordPress, Joomla
-# Data Visualization:
-# R, SAS, Python
+`Software Testing:`
+`Requirement Analysis, Test Plan Creation, Test Case Writing and Execution, Smoke Testing, Acceptance Testing, Defect Documentation`<br>
+`Testing Frameworks & Tools:`
+`Selenium, Cucumber, JUnit, TestNG, Postman`<br>
+`Version Control System:`
+`Git`<br>
+'CI/CD:`
+`Jenkins`<br>
+`Reporting:`
+`Microsoft Excel`<br>
+`Content Management Systems:`
+`WordPress, Joomla`<br>
+`Data Visualization:`
+`R, SAS, Python`<br>
