@@ -36,3 +36,29 @@
 `Tool: HTML5, CSS3, Bootstrap, JavaScript, React, PHP, WordPress`<br><br>
 `Project on Healthcare Data Investigation.`<br>
 `Tool: Python`<br><br>
+# Experiences
+`Executive (Test Analyst)`<br>
+`CTS, Remote`<br><br>
+`Responsibilities:`<br><br>
+`- Conduct detailed requirement analysis to document system and user requirements.`<br>
+`- Design and execute comprehensive test plans and test cases for diverse applications.`<br>
+`- Perform smoke and acceptance testing to validate functionality against specifications.`<br>
+`- Validate test data and ensure accuracy using advanced SQL queries.`<br>
+`- Create and execute both simple and complex queries using Structured Query Language (SQL) to extract data for quality assurance and reporting purposes.`<br>
+`- Generate automated test reports utilizing JUnit and TestNG libraries.`<br>
+`- Document, track, and communicate defects through Jira, collaborating with development teams for timely resolutions.`<br>
+`- Support CI/CD environments, ensuring smooth integration and testing workflows.`<br>
+`- Maintain version control with Git, streamlining collaboration within project teams.`<br>
+`- Provide proactive technical insights to enhance system health and manageability.`<br><br>
+
+
+`Teacher (Substitute)`<br>
+`College Station ISD and Bryan ISD`<br><br>
+
+`Responsibilities:`<br>
+`- Implemented pre-assigned lesson plans, adapting them to meet the needs of diverse learners.`<br>
+`- Maintained a positive learning environment by managing classroom behavior effectively.`<br>
+`- Recorded attendance accurately and maintained student records according to the school policy.`<br>
+`- Communicated with students, parents and staff by providing necessary information/updates.`<br>
+`- Managed multiple tasks and utilized educational technology effectively.`<br>
+`- Collaborated with teachers to support student learning.`<br>
