@@ -1,8 +1,8 @@
 # Resume_Sonia
 `Detail-oriented SDET (Software Development Engineer in Test) Professional supporting financial systems, conducting software testing, and improving application stability. Skilled in data validation, data analysis, IT service operations, software development and cross-functional collaboration.`
 # Education
-# The University of Memphis
-# Master of Science in Management Information Systems
+`The University of Memphis`
+`Master of Science in Management Information Systems`
 # Jahangirnagar University
 # Bachelor of Science in Computer Science and Engineering
 # Skills
